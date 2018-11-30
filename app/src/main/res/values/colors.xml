@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f7f8f8</color>
+    <color name="colorPrimaryDark">#f0f0f0</color>
+    <color name="colorAccent">#448aff</color>
+    <color name="colorPinkLight">#ee7d79</color>
+    <color name="colorAccentLight">#eef3fe</color>
+    <color name="colorRed">#ea3425</color>
+
+    <color name="colorTabBackgroundInactive">@android:color/white</color>
+    <color name="colorDiscountShape">@color/colorPinkLight</color>
+    <color name="colorTabSelectedSolid">@color/colorAccentLight</color>
+    <color name="colorTabSelectedStroke">@color/colorAccent</color>
+    <color name="colorBannerDescriptionBackground">#ccffffff</color>
+    <color name="colorTextPrimary">@android:color/black</color>
+    <color name="colorDeleteBackground">@color/colorRed</color>
+    <color name="colorOfferHeaderBackground">#efeff4</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NapoleonTest</string>
+    <string name="button_delete">Кнопка удаления</string>
+    <string name="offer_image">Изображение предложения</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="search">Поиск</string>
+    <string name="image_info">Изображение информации</string>
+    <string name="top_10">Топ 10</string>
+    <string name="shops">Магазины</string>
+    <string name="products">Товары</string>
+    <string name="background_image">Фоновое изображение</string>
+    <string name="title_and_description_area">Область заголовка и описания</string>
+</resources>

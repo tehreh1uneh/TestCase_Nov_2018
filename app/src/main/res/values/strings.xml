@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NapoleonTest</string>
+    <string name="button_delete">button delete</string>
+    <string name="offer_image">offer image</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="search">Search</string>
+    <string name="image_info">image info</string>
+    <string name="top_10">Top 10</string>
+    <string name="shops">Shops</string>
+    <string name="products">Products</string>
+    <string name="background_image">background image</string>
+    <string name="title_and_description_area">Title and description area</string>
+</resources>
